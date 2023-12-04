@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3829e35d-1c55-4c93-b163-e4743cecf29b" name="Changes" comment="">
+    <list default="true" id="3829e35d-1c55-4c93-b163-e4743cecf29b" name="Changes" comment="final version dashboard app">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dashboard.iml" afterDir="false" />
@@ -23,7 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -63,11 +62,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1701689116468</updated>
-      <workItem from="1701689118141" duration="5189000" />
+      <workItem from="1701689118141" duration="5596000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final version dashboard app" />
+    <option name="LAST_COMMIT_MESSAGE" value="final version dashboard app" />
   </component>
 </project>
